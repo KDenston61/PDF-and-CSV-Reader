@@ -44,7 +44,7 @@ Make sure to replace the placeholders `'Insert OpenAI API Key Here'` and `'Inser
 
 To run the application:
 
-1. Clone the repository from GitHub.
+1. Clone the repository from GitHub using ```git clone https://github.com/KDenston61/PDF-and-CSV-Reader.git```
 
 2. Install the necessary dependencies by following the installation instructions in the repository.
 
