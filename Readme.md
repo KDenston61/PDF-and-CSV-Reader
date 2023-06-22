@@ -50,9 +50,9 @@ To run the application:
 
 3. Open the command line or terminal and navigate to the project directory.
 
-4. Run the following command: `streamlit run your_app.py`
+4. Run the following command: `streamlit run main.py`
 
-Replace `your_app.py` with the actual filename of the Python script containing the code for the application.
+Replace `main.py` with the actual filename of the Python script containing the code for the application.
 
 Enjoy exploring and analyzing your PDF and CSV files with this user-friendly application!
 
